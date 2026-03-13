@@ -1,0 +1,56 @@
+.hero{
+    height: 500px;
+    background-image: url(../images/images2.jpeg);
+    background-repeat: no-repeat;
+    background-size:cover ;
+}
+
+.navigation{
+    display: flex;
+    gap: 80px;
+    background-color: rgb(186, 91, 91);
+    
+}
+
+.logo{
+    margin-top: 5px;
+
+}
+a{
+    color:white ;
+    
+}
+img{
+    width: 300px;
+    height: 200px; ;
+}
+
+.container1{
+    display: flex;
+    gap: 20px;
+    background-color: rgb(121, 75, 75);
+}
+
+.container2{
+    margin-top: 20px;
+    display: flex;
+    gap: 20px;
+    background-color:rgb(186, 121, 121) ;
+
+}
+.container3{
+    display: flex;
+    gap:20px ;
+    background-color: brown;
+}
+
+.container4{
+    display: flex;
+    margin: 10px;
+    background-color: rgb(163, 99, 99);
+    padding: 20px;
+}
+
+.bold{
+    font-size: x-large;
+}
